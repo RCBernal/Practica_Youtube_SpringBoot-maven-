@@ -17,5 +17,4 @@ public class Empleados {
     private int telefono;
     private int edad;
 
-
 }

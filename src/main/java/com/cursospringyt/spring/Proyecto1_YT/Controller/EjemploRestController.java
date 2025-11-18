@@ -1,8 +1,6 @@
 package com.cursospringyt.spring.Proyecto1_YT.Controller;
 
-import ch.qos.logback.core.model.Model;
 import com.cursospringyt.spring.Proyecto1_YT.Model.DTO.ClaseDTO;
-import com.cursospringyt.spring.Proyecto1_YT.Model.Empleados;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
